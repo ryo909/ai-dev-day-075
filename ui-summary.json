@@ -1,11 +1,11 @@
 {
   "title": "係バッジ混ぜ",
   "archetype": "fun_card_mix",
-  "interaction_model": "editable_win_to_certificate",
-  "primary_layout": "win_editor_with_certificate_preview",
-  "result_presentation_style": "share_ready_certificate_card",
-  "palette_motif": "小さな勝ちゴールド",
-  "main_cta": "今日の小さな勝ちで試す",
-  "intro_variant": "tiny_win_certificate",
-  "ui_variant": "certificate"
+  "interaction_model": "editable_people_roles_to_badge_cards",
+  "primary_layout": "people_role_editor_with_badge_wall",
+  "result_presentation_style": "role_badges_with_heavy_role_ribbons",
+  "palette_motif": "係バッジコーラル",
+  "main_cta": "集まり前の係分けで試す",
+  "intro_variant": "role_badge_mix",
+  "ui_variant": "badge"
 }
